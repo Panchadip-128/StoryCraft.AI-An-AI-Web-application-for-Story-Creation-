@@ -26,6 +26,12 @@ pip install -r requirements.txt
 Finally run the main application:
 streamlit run app.py
 
+Sample prompts and model response:
+----------------------------------
+![samp_img1](https://github.com/user-attachments/assets/53908c68-2506-4e77-ac8a-bd7a9ab90b12)
+![Samp2_img](https://github.com/user-attachments/assets/e4f3296f-4a24-4a14-a082-8d0af6bdbf59)
+![Samp2_img_contd](https://github.com/user-attachments/assets/fe9fbb2c-4339-40b4-8c4d-3b8fe5d0cd57)
+
 Prerequisites:
 --------------
 Python 3.8 or higher
