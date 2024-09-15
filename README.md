@@ -18,7 +18,7 @@ Clone the Repository:
 git clone https://github.com/Panchadip-128/StoryCraft.AI-An-AI-Web-application-for-Story-Creation-.git
 
 Select the appropriate file for run:
-cd Story_Generation_Model
+cd "StoryCraft.AI-An-AI-Web-application-for-Story-Creation-"
 
 Install the Required Packages:
 pip install -r requirements.txt
