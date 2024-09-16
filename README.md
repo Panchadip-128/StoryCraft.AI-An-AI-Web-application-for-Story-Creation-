@@ -26,6 +26,8 @@ pip install -r requirements.txt
 Finally run the main application:
 streamlit run app.py
 
+The screen will be redirected to streamlit web application from where user can enter a prompt, adjust the slider for required words and get appropriate result.
+
 Sample prompts and model response:
 ----------------------------------
 ![samp_img1](https://github.com/user-attachments/assets/53908c68-2506-4e77-ac8a-bd7a9ab90b12)
